@@ -1,0 +1,37 @@
+img {
+  height: auto;
+  width: 600px;
+}
+
+.home-title {
+  font-family: Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 48px;
+  color: black;
+  background-color: yellow;
+}
+
+.recipe-title {
+  font-family: Tahoma, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  font-style: bold;
+  color: white;
+  background-color: rgb(211, 34, 11);
+}
+
+h2 {
+  font-family: sans-serif;
+  color: red;
+}
+
+.recipe-content {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.home-content {
+  font-family: sans-serif;
+  font-size: 24px;
+}
